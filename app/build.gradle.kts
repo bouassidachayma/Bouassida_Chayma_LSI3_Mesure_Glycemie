@@ -3,7 +3,7 @@ plugins {
 }
 
 android {
-    namespace = "com.payassistai.bouassida_chayma_lsi3_mesure_glycmie"
+    namespace = "com.payassistai.bouassida_chayma_lsi3_mesure_glycemie"
     compileSdk {
         version = release(36) {
             minorApiLevel = 1

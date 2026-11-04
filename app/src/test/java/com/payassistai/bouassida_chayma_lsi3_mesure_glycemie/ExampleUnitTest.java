@@ -1,4 +1,4 @@
-package com.payassistai.bouassida_chayma_lsi3_mesure_glycmie;
+package com.payassistai.bouassida_chayma_lsi3_mesure_glycemie;
 
 import org.junit.Test;
 
